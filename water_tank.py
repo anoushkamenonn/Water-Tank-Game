@@ -1,14 +1,6 @@
-# TODO: Students, fill out statement of work header
-# Student Name in Canvas: Anoushka Menon
-# Penn ID: 30793147
-# Did you do this homework on your own (yes / no): yes
-# Resources used outside course materials: I used lecture materials to come up with the syntax and structural flow of the program.
-
 # import statements
 import random
 from random import shuffle
-
-# TODO: Write the functions as described in the instructions
 
 """
 This function asks the user for input until a valid response is given. Question corresponds
@@ -475,3 +467,4 @@ Good Luck!""")
 
 if __name__ == '__main__':
     main()
+
